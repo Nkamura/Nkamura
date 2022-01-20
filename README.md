@@ -17,7 +17,7 @@ And all I lov'd -- I lov'd alone -- <br/>
 
 
 
-
+<!--Made by Gustavo Riodi Nakamura -->
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
   
@@ -39,7 +39,7 @@ And all I lov'd -- I lov'd alone -- <br/>
 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <br/> 
-  
+  <!--Made by Gustavo Riodi Nakamura -->
   
 <h2 align="middle">🛠 Languages and Tools 🛠<br/>
 <br/>
@@ -54,7 +54,8 @@ And all I lov'd -- I lov'd alone -- <br/>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pgh05cvpi2sd6ory0gf88fiqm&width=1000)
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
+ 
+ <!--Made by Gustavo Riodi Nakamura --> 
 
 <h2 align="middle">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br/>
 <br/>
