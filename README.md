@@ -29,7 +29,7 @@ And all I lov'd -- I lov'd alone -- <br/>
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nkamura&theme=algolia&hide_border=true" />
 </td>
 <td width="50%" align="center">
-  <h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30px height= 30px alt="Git"/>&nbsp;<i> Git Stats⠀<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30px height= 30px alt="Git"/>&nbsp;<i>  </h2></i>
+  <h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=20px height= 20px alt="Git"/>&nbsp;<i> Git Stats⠀<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=20px height= 20px alt="Git"/>&nbsp;<i>  </h2></i>
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nkamura&theme=algolia&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
