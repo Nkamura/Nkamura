@@ -1,7 +1,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+<h1 align="center"> Hello Fellow < Developers/ >! 
 </h1>
   
 <h4 align="center"> From childhood's hour I have not been
@@ -29,7 +29,7 @@ And all I lov'd -- I lov'd alone -- <br/>
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nkamura&theme=algolia&hide_border=true" />
 </td>
 <td width="50%" align="center">
-  <h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>Git Stats⠀<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>  </h2></i>
+  
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nkamura&theme=algolia&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
