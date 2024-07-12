@@ -4,14 +4,9 @@
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px>
 </h1>
   
-<h4 align="center"> From childhood's hour I have not been
-As others were -- I have not seen
-As others saw -- I could not bring
-My passions from a common spring --
-From the same source I have not taken
-My sorrow -- I could not awaken
-My heart to joy at the same tone --
-And all I lov'd -- I lov'd alone -- <br/>
+<h4 align="center">
+  I'm a dedicated Information Systems student with hands-on experience in software maintenance, bug fixing, and project management. Skilled in problem-solving and collaboration, I thrive in dynamic environments and am committed to continuous learning and growth. Leveraging my academic background and practical experience to achieve impactful results is my goal.
+<br/>
 <br/> 
 
 
@@ -50,17 +45,28 @@ And all I lov'd -- I lov'd alone -- <br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 🎧 Spotify 🎧<br/>
-<br/>
+ <br/> 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pgh05cvpi2sd6ory0gf88fiqm&width=1000)
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
+
+ <h4 align="center"> From childhood's hour I have not been
+As others were -- I have not seen
+As others saw -- I could not bring
+My passions from a common spring --
+From the same source I have not taken
+My sorrow -- I could not awaken
+My heart to joy at the same tone --
+And all I lov'd -- I lov'd alone -- <br/>
+<br/> 
+   
  <!--Made by Gustavo Riodi Nakamura --> 
 
 <h2 align="middle">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br/>
 <br/>
-<a href="https://www.instagram.com/_nkamura"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  
 <a href="https://www.linkedin.com/in/gustavo-riodi-nakamura-8004341b3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/_nkamura"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="mailto:gustavonakamura@aluno.utfpr.edu.br?subject=Hello Nkamura :)"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;<br/>
 <br/>
  <br/>
