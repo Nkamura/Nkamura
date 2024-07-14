@@ -1,7 +1,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px>
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://github.com/Nkamura/Public_Images/blob/main/hello.gif?raw=true" width = 30px height = 30px>
 </h1>
   
 <h4 align="center">
@@ -13,7 +13,7 @@
 
 
 <!--Made by Gustavo Riodi Nakamura -->
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Nkamura/Public_Images/blob/main/line.gif?raw=true"></a>
   
   
 <table border="0" align="center">
@@ -24,7 +24,7 @@
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nkamura&theme=algolia&hide_border=true" />
 </td>
 <td width="50%" align="center">
-  <h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=20px height= 20px alt="Git"/>&nbsp;<i> Git Stats⠀<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=20px height= 20px alt="Git"/>&nbsp;<i>  </h2></i>
+  <h2 align="center"><img src="https://github.com/Nkamura/Public_Images/blob/main/dots.gif?raw=true" width=20px height= 20px alt="Git"/>&nbsp;<i> Git Stats⠀<img src="https://github.com/Nkamura/Public_Images/blob/main/dots.gif?raw=true" width=20px height= 20px alt="Git"/>&nbsp;<i>  </h2></i>
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nkamura&theme=algolia&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
@@ -32,7 +32,7 @@
 </table>
 
 
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Nkamura/Public_Images/blob/main/line.gif?raw=true"></a>
  <br/> 
   <!--Made by Gustavo Riodi Nakamura -->
   
@@ -42,27 +42,16 @@
 
   
   
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Nkamura/Public_Images/blob/main/line.gif?raw=true"></a>
   
 🎧 Spotify 🎧<br/>
  <br/> 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pgh05cvpi2sd6ory0gf88fiqm&width=1000)
   
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
- <h4 align="center"> From childhood's hour I have not been
-As others were -- I have not seen
-As others saw -- I could not bring
-My passions from a common spring --
-From the same source I have not taken
-My sorrow -- I could not awaken
-My heart to joy at the same tone --
-And all I lov'd -- I lov'd alone -- <br/>
-<br/> 
    
  <!--Made by Gustavo Riodi Nakamura --> 
 
-<h2 align="middle">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br/>
+<h2 align="middle">Connect with me <img src='https://github.com/Nkamura/Public_Images/blob/main/handshake.gif?raw=true' width="100px"><br/>
 <br/>
   
 <a href="https://www.linkedin.com/in/gustavo-riodi-nakamura-8004341b3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
