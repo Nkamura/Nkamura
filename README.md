@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/Nkamura/Public_Images/blob/main/mainprofile.png?raw=true" height="175px"/></a>
 
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://github.com/Nkamura/Public_Images/blob/main/hello.gif?raw=true" width = 30px height = 30px>
 </h1>
