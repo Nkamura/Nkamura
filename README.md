@@ -60,4 +60,5 @@
 <br/>
  <br/>
   
-<img src="https://cdn.discordapp.com/attachments/773364442820902932/923095390629265428/waves.png" />
+<img style="margin-top: -210px;" src="https://github.com/Nkamura/Public_Images/blob/main/wave.png?raw=true" alt="Wave Image" />
+
