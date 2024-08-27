@@ -60,5 +60,5 @@
 <br/>
  <br/>
   
-<img style="margin-top: -210px;" src="https://github.com/Nkamura/Public_Images/blob/main/wave.png?raw=true" alt="Wave Image" />
+<img style="margin-top: -210px;" src="https://github.com/Nkamura/Public_Images/blob/main/wave-2.png?raw=true" alt="Wave Image" />
 
